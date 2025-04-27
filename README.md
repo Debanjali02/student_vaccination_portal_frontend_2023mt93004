@@ -1,1 +1,1 @@
-Student vaccination portal in angular
+This is the frontend React.js application for managing student vaccinations in a school. It allows the school coordinator to manage student records, book vaccination drives, generate reports, and more.
